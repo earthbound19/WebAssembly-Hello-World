@@ -14,4 +14,4 @@ emcc ./cin_cout_test.cpp -s WASM=1 -o cin_cout_to_wasm_test.html
 # ADDITIONAL NOTES; at this writing:
 # - the compiler toolkit automatically adds some header/front material fluff. That can be removed; how I don't know yet.
 # - I am able to run the web assembly by simply opening the accompanying .html files from local storage (a file on my mac) in firefox. Safari chokes on it, though. What? Yer supposed to be "innovate," you Mac folks ;)
-# - the cin_cout_test.cpp doesn't behave as would be hoped; in firefox at least it deplays and then vanishes a message (way too fast probably even to be actually rendered), followed by a mysterious javascript(-esque?) input prompt.
+# - the cin_cout_test.cpp doesn't behave as would be hoped; in firefox at least it displays and then vanishes a message (way too fast probably even to be actually rendered), followed by a mysterious javascript(-esque?) input prompt.
