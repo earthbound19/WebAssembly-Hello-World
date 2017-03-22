@@ -1,0 +1,6 @@
+http://webassembly.org/getting-started/developers-guide/
+ALSO: https://kripken.github.io/emscripten-site/docs/getting_started/Tutorial.html
+
+OR: http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html
+
+potentially of use: https://mbebenita.github.io/WasmExplorer/
